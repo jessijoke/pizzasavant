@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/pizza/static/css/main.7ce20a06.chunk.css",
-    "main.js": "/pizza/static/js/main.18a217a6.chunk.js",
-    "main.js.map": "/pizza/static/js/main.18a217a6.chunk.js.map",
-    "runtime-main.js": "/pizza/static/js/runtime-main.38031e57.js",
-    "runtime-main.js.map": "/pizza/static/js/runtime-main.38031e57.js.map",
-    "static/js/2.80eb23cb.chunk.js": "/pizza/static/js/2.80eb23cb.chunk.js",
-    "static/js/2.80eb23cb.chunk.js.map": "/pizza/static/js/2.80eb23cb.chunk.js.map",
-    "index.html": "/pizza/index.html",
-    "precache-manifest.58d1f3ddaa402185d3a90a631dd4317a.js": "/pizza/precache-manifest.58d1f3ddaa402185d3a90a631dd4317a.js",
-    "service-worker.js": "/pizza/service-worker.js",
-    "static/css/main.7ce20a06.chunk.css.map": "/pizza/static/css/main.7ce20a06.chunk.css.map",
-    "static/js/2.80eb23cb.chunk.js.LICENSE.txt": "/pizza/static/js/2.80eb23cb.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/pizza/static/media/logo.5d5d9eef.svg",
-    "static/media/pizza-bg.jpg": "/pizza/static/media/pizza-bg.8c6071e6.jpg"
+    "main.css": "/pizzasavant/static/css/main.e4d3aa1e.chunk.css",
+    "main.js": "/pizzasavant/static/js/main.e4ffe91e.chunk.js",
+    "main.js.map": "/pizzasavant/static/js/main.e4ffe91e.chunk.js.map",
+    "runtime-main.js": "/pizzasavant/static/js/runtime-main.795afcb1.js",
+    "runtime-main.js.map": "/pizzasavant/static/js/runtime-main.795afcb1.js.map",
+    "static/js/2.80eb23cb.chunk.js": "/pizzasavant/static/js/2.80eb23cb.chunk.js",
+    "static/js/2.80eb23cb.chunk.js.map": "/pizzasavant/static/js/2.80eb23cb.chunk.js.map",
+    "index.html": "/pizzasavant/index.html",
+    "precache-manifest.1c1f271cb69af00a87058134d2578fec.js": "/pizzasavant/precache-manifest.1c1f271cb69af00a87058134d2578fec.js",
+    "service-worker.js": "/pizzasavant/service-worker.js",
+    "static/css/main.e4d3aa1e.chunk.css.map": "/pizzasavant/static/css/main.e4d3aa1e.chunk.css.map",
+    "static/js/2.80eb23cb.chunk.js.LICENSE.txt": "/pizzasavant/static/js/2.80eb23cb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pizzasavant/static/media/logo.5d5d9eef.svg",
+    "static/media/pizza-bg.jpg": "/pizzasavant/static/media/pizza-bg.8c6071e6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.38031e57.js",
+    "static/js/runtime-main.795afcb1.js",
     "static/js/2.80eb23cb.chunk.js",
-    "static/css/main.7ce20a06.chunk.css",
-    "static/js/main.18a217a6.chunk.js"
+    "static/css/main.e4d3aa1e.chunk.css",
+    "static/js/main.e4ffe91e.chunk.js"
   ]
 }
